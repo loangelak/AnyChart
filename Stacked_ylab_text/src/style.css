@@ -1,0 +1,12 @@
+/*PRESET*/
+*{margin: 0; }
+
+#container, html, body{
+    height: 100%; 
+    width: 100%;
+}
+
+#container, #tableWithData{
+    float: left; 
+    width: 50%; 
+}
